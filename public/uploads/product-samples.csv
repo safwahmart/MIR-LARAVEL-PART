@@ -1,0 +1,2 @@
+category_id,brand_id,unit,unit_id,country_id,name,name_bn,slug,code,purchase_price,wholesale_price,sale_price,alert_quantity,max_order_quantity,video_link,manufacture_model_no,barcode,vat,vat_type,sku,weight,is_variation,vat_applicable,is_refundable,opening_qty,warehouse_id
+1,1,10,1,1,Test Product,test product,test -product,,1200,1250,1500,5,4,,,,,,,1,Yes,Yes,Yes,100,1
